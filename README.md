@@ -4,7 +4,6 @@ Sinerely,
 
 MHR Group LLC
 
-
 # Disclosure
 
 All the materials here at www.self-supervised-learning.com are FREE to use, and are only to help the machine learning community get familiar with self-supervised learning.
