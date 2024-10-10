@@ -1,19 +1,27 @@
-Email incident: Anyone who has received any email regarding this course is entirely opt-out and will no longer receive such emails from us. We sincerely apologize for any inconvenience, and we will ensure this incident will never happen ever again. 
+# Updates 20241009
 
-Sinerely,
+Most notebooks now have a cell to downgrade the TensorFlow version on Google Colab to version 2.15. This way, we prevent errors associated with the latest TensorFlow updates. 
 
+Sincerely,
 MHR Group LLC
 
 # Disclosure
 
-All the materials here at www.self-supervised-learning.com are FREE to use, and are only to help the machine learning community get familiar with self-supervised learning.
+Email incident: Anyone who has received any email regarding this course is entirely opt-out and will no longer receive such emails from us. We sincerely apologize for any inconvenience and will ensure this incident never happens again. 
+
+Sincerely,
+MHR Group LLC
+
+# Disclosure
+
+All the materials here at www.self-supervised-learning.com are FREE to use and are only to help the machine learning community get familiar with self-supervised learning.
 
 # Description
 Self Supervised Learning [Contrastive Learning + SimCLR] at www.self-supervised-learning.com
 
 * This course teaches you "Self-Supervised Learning" (SSL), also known as "Representation Learning." 
 
-* SSL is a relatively new and hot subject in machine learning to deal with repositories with limited labeled data. 
+* SSL is a relatively new and hot machine learning subject that deals with limited labeled data repositories. 
 
 * There are two general SSL techniques, contrastive and generative. This course's focus is on supervised and unsupervised contrastive models only. 
 
@@ -23,11 +31,11 @@ Self Supervised Learning [Contrastive Learning + SimCLR] at www.self-supervised-
 
 * In every lecture, you can access the corresponding Python .ipynb notebooks. The notebooks are best to be run with a GPU accelerator.
 
-* Simply navigate to the the section and lecture of your interest and open the .ipynb files in Google Colab.
+* Simply navigate to the section and lecture of your interest and open the .ipynb files in Google Colab.
 
 # Overview
 
-## Four Sections and ten Lectures:
+## Four Sections and Ten Lectures:
 
 Section 01: Introduction.
 
