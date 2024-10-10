@@ -3,6 +3,7 @@
 Most notebooks now have a cell to downgrade the TensorFlow version on Google Colab to version 2.15. This way, we prevent errors associated with the latest TensorFlow updates. 
 
 Sincerely,
+
 MHR Group LLC
 
 # Disclosure
@@ -10,6 +11,7 @@ MHR Group LLC
 Email incident: Anyone who has received any email regarding this course is entirely opt-out and will no longer receive such emails from us. We sincerely apologize for any inconvenience and will ensure this incident never happens again. 
 
 Sincerely,
+
 MHR Group LLC
 
 # Disclosure
